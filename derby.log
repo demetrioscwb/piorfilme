@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Oct 17 09:00:44 BRT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0183-e5d1-515d-00000dfe6e08 
+on database directory C:\Projetos\workspace\git\piorfilme\PIORFILMEDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c29bfd 
+Loaded from file:/C:/Users/demet/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.15.1+2-LTS-10
+user.dir=C:\Projetos\workspace\git\piorfilme
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
